@@ -37,12 +37,12 @@ main{
     text-align: center;
 }
 .text h1{
-    font-size: 20px;
-    padding: 0 1rem;
+    font-size: 25px;
+    padding: 0 2rem;
 }
 .text p{
     margin-top: 15px;
-    padding: 0 2rem;
+    padding: 0 3rem;
     color: hsl(212, 45%, 89%);
 }
 .attribution{
